@@ -1,1 +1,1 @@
-In this repository, I show various projects related to business analysis that I have done.
+In this repository, I show the various parts of a project I did related to the restaurant Bardough NYC. The process involved obtaining access to the data from the restaurant owners, crawling the ToastTab cloud software to create data frames, analyzing the code with Python and various packages, and then presenting my findings to the restaurant owners.
